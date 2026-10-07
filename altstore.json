@@ -1,0 +1,36 @@
+{
+  "name": "Yard Rage",
+  "identifier": "com.itspector.yardrage.altstore",
+  "sourceURL": "https://raw.githubusercontent.com/ssnanda/YardRage/main/altstore.json",
+  "website": "https://yardrage.com",
+  "apps": [
+    {
+      "name": "Yard Rage",
+      "bundleIdentifier": "com.itspector.yardrage",
+      "developerName": "ITSpector LLC",
+      "subtitle": "HOA politics. Neighborhood chaos.",
+      "localizedDescription": "Yard Rage is a satirical HOA game: patrol the neighborhood, investigate complaints, photograph evidence, manage residents, survive board politics, and try to keep your seat.",
+      "iconURL": "https://raw.githubusercontent.com/ssnanda/YardRage/main/icon.png",
+      "tintColor": "2F4858",
+      "screenshotURLs": [],
+      "version": "0.1.52",
+      "buildVersion": "53",
+      "versionDate": "2026-10-07",
+      "versionDescription": "Build 0.1.52+53",
+      "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.52-53/yardrage.ipa",
+      "size": 39000206,
+      "versions": [
+        {
+          "version": "0.1.52",
+          "buildVersion": "53",
+          "date": "2026-10-07",
+          "localizedDescription": "Build 0.1.52+53",
+          "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.52-53/yardrage.ipa",
+          "size": 39000206,
+          "minOSVersion": "13.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
