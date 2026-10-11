@@ -13,20 +13,20 @@
       "iconURL": "https://raw.githubusercontent.com/ssnanda/YardRage/main/icon.png",
       "tintColor": "2F4858",
       "screenshotURLs": [],
-      "version": "0.1.82",
-      "buildVersion": "83",
+      "version": "0.1.83",
+      "buildVersion": "84",
       "versionDate": "2026-10-11",
-      "versionDescription": "Build 0.1.82+83",
-      "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.82-83/yardrage.ipa",
-      "size": 40281733,
+      "versionDescription": "Build 0.1.83+84",
+      "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.83-84/yardrage.ipa",
+      "size": 40292272,
       "versions": [
         {
-          "version": "0.1.82",
-          "buildVersion": "83",
+          "version": "0.1.83",
+          "buildVersion": "84",
           "date": "2026-10-11",
-          "localizedDescription": "Build 0.1.82+83",
-          "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.82-83/yardrage.ipa",
-          "size": 40281733,
+          "localizedDescription": "Build 0.1.83+84",
+          "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.83-84/yardrage.ipa",
+          "size": 40292272,
           "minOSVersion": "13.0"
         }
       ]
